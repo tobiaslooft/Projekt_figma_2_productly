@@ -1,4 +1,9 @@
-
+.logo {
+    width: 185px;
+    height: 32px;
+    padding: 144;
+    padding-top: 22px;
+}
 
  .Logo_productly.jpg {
     width: 185.34px;
@@ -6,4 +11,27 @@
     padding-left: 143.92px;
     padding-top: 22px;
 
+}
+
+.topnav {
+    position: absolute;
+    width: 1400px;
+    height: 78px;
+    padding-left: 650px;
+    padding-right: 400px;
+
+}
+
+.buttom-sign-in {
+    left: 73.5%;
+    right: 19.21%;
+    top: 19.23%;
+    bottom: 21.79%;
+}
+
+.buttom-sign-up {
+    left: 81.79%;
+    right: 10.36%;
+    top: 19.23%;
+    bottom: 21.79%;
 }
