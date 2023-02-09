@@ -1,9 +1,60 @@
-.header{
-    width: 1400px;
-    height: 78px;
-    margin-top: 42px;
-    margin-left: 144px;
-    display: flexbox;
-    text-align: center;
+.header { 
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    Width:1400px;
+    Height:78px;
+    margin-top: 20px;
+
+}
+
+.logo {
+    width: 185px;
+    height: 32px;
+    padding-left: 144px;
+    padding-top: 22px;
+}
+
+.container {
+    font-family: 'Poppins', sans-serif;
+
+    display: block;
+    width: 1126px;
+    height: 331px;
+    padding-left: 145px;
+    padding-top: 113px;
+}
+
+.produkter {
+    display: inline-block;
+    justify-items: baseline;
+    align-items: center;
+    max-width: 1000px;
+    padding-top: 24px;
+    padding-left: 321px;
+    height: 28px;
+}
+
+.header_info { 
+    width: 518px;
+    height: 108px;
+}
+
+.info_text {
+    Width:458px;
+    Height:95px;
+}
+
+.get_started {
+    width: 175px;
+    height: 53px;
+}
+
+.watch_the_video {
+    width: 175px;
+    height: 53px;
+}
+.bild_jumping {
+    display: block;
+    padding-left: 20px;
 }
 
