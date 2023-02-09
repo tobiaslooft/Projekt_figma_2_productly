@@ -1,47 +1,9 @@
-
-.logo {
-    width: 185.34px;
-    height: 31.97px;
-    padding-left: 144px;
-    padding-top: 22px;
-}
-
-
-.topnav-bar {
-    display: boxflex;
-    width: 100%;
+.header{
+    width: 1400px;
     height: 78px;
-    margin-top: 35px;
-}
-
-.products {
-    Width: 350px;
-    Height: 28px;
-    top: 20px;
-}
-
-.sign-in {
-    height: 46px;
-    width: 110px;
-}
-
-.sign-up {
-    background-color: #FF9900 ;
-    height: 46px;
-    width: 110px;
-}
-
-.left_side {
+    margin-top: 42px;
+    margin-left: 144px;
     display: flexbox;
-    Width: 518px;
-    Height: 331px
+    text-align: center;
 }
 
-.button-gs {
-    background-color: #FF9900 ;
-}
-
-.button-wtv {
-    background-color: #F2F2F2 ;
-    text-emphasis-color: #FF9900;
-}
