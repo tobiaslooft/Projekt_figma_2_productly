@@ -1,11 +1,4 @@
-.logo {
-    width: 185px;
-    height: 32px;
-    padding: 144;
-    padding-top: 22px;
-}
-
- .Logo_productly.jpg {
+ .Logo.jpg {
     width: 185.34px;
     height: 31.97px;
     padding-left: 143.92px;
@@ -15,23 +8,25 @@
 
 .topnav {
     position: absolute;
-    width: 1400px;
-    height: 78px;
-    padding-left: 650px;
+    Width:350px
+    Height:28px
+
+    padding-top: 24px;
     padding-right: 400px;
 
 }
 
-.buttom-sign-in {
+.button-sign-in {
+    position: absolute;
     left: 73.5%;
     right: 19.21%;
     top: 19.23%;
     bottom: 21.79%;
 }
 
-.buttom-sign-up {
-    left: 81.79%;
-    right: 10.36%;
-    top: 19.23%;
-    bottom: 21.79%;
+.button-sign-up {
+    Width: 110px;
+    Height: 46px
+    padding-top 19px;
+    padding-right: 145px;
 }
