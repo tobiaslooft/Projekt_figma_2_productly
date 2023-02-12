@@ -75,36 +75,40 @@
     height: 543px;
     display: block;
     justify-content: center;
-
 }
-
 
 .container_tools {
     font-family: 'Poppins', sans-serif;
-    display: flex;
-
+    display:flex;
+    text-align: left;
+    padding-top: 5px;
     width: 2211px;
     height: 543px;
-
 }
 
 .kort1 {
     width: 240px;
-    height: 178px;  
-
+    height: 178px;
+    font-size: 22px;
 }
+
 .kort2 {
     width: 240px;
     height: 178px;  
-
 }
+
 .kort3 {
     width: 240px;
     height: 178px; 
 
 }
+
 .kort4 {
     width: 240px;
     height: 178px;  
+}
+
+.design_professionals_section {
+    display: block
 
 }
