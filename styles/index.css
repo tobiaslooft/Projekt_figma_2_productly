@@ -1,0 +1,288 @@
+.body {
+    max-width: 1400px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.header_top {
+    width: 1400px;
+    height: 78px;
+    display: flex;
+}
+
+.logo1 {
+    width: 185px;
+    height: 32px;
+    padding-left: 143.92px;
+    padding-top: 22px;
+}
+
+.section_main {
+    width: 1126px;
+    height: 496px;
+    margin-left: 145px;
+    padding-top: 30px;
+}
+
+.products {
+    display: flex;
+    padding-left: 320px;
+    padding-top: 24px;
+    color: #2F281E;
+}
+
+.header_buttons {
+
+    padding-left: 29px;
+    padding-top: 35px;
+
+}
+
+.btn-sign_in {
+    Width: 102px;
+    Height: 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.btn-sign_up{
+    Width: 102px;
+    Height: 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+
+
+.left_side {
+
+    width: 518px;
+    height: 331px;
+
+}
+
+.first_header {
+
+    position: absolute;
+    width: 518px;
+    height: 108px;
+    left: 145px;
+    top: 211px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 54px;
+    /* or 123% */
+    color: #2F281E;
+}
+
+.text_first_section_left {
+    position: absolute;
+    width: 458px;
+    height: 95px;
+    left: 145px;
+    top: 349px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #544837;
+}
+
+.btn_section_1 {
+    position: absolute;
+    display: flex;
+    width: 366px;
+    height: 53px;
+    left: 145px;
+    top: 489px;
+}
+
+.btn_get_started {
+    width: 175px;
+    height: 53px;
+    left: 145px;
+    top: 489px;
+    background-color: #FF9900;
+    color: #FFFFFF;
+}
+
+.btn_watch_the_video {
+    width: 161px;
+    height: 23px;
+    position: absolute;
+    height: 24px;
+    margin-left: 376px;
+    right: 0%;
+    top: calc(50% - 24px/2 + 0.5px);
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #FF9900;
+
+}
+
+.right_side_image {
+    position: absolute;
+    width: 605px;
+    height: 496px;
+    left: 666px;
+    top: 128px;
+}
+
+.section_tools {
+    width: 2211px;
+    height: 543px; 
+    justify-content: center;
+    display: flex;
+}
+
+.header_tools {
+    position: absolute;
+    height: 108px;
+    padding-top: 110px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    color: #2F281E;
+    align-items: ;
+}
+
+.features_4_boxes {
+    width: 1095px;
+    height: 204px;
+    display: flex;
+    padding-top: 272px;
+
+}
+
+.card1 {
+    width: 240px;
+    height: 178px;  
+    left: 567px;
+    top: 162px;
+   
+}
+
+.card2 {
+    width: 240px;
+    height: 178px;  
+}
+
+.card3 {
+    width: 240px;
+    height: 178px;
+}
+
+.card4 {
+    width: 240px;
+    height: 178px;
+}
+
+.btn_tools_sign_up_now {
+    height: 53px;
+    width: 175px;
+    left: 1027px;
+    top: 400px;
+    border-radius: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #FF9900;
+    border-radius: 4px;
+
+
+}
+
+.section_3_design_professionals {
+
+}
+
+.left_side_section {
+
+}
+
+.topic_design_professionals {
+
+}
+
+.right_side_section_dp {
+
+}
+
+.section_4_product_managers {
+
+}
+
+.left_section_4_image {
+
+}
+
+.topic_product_managers {
+
+}
+
+.check_box_section_4 {
+
+}
+
+.box1 {
+
+}
+
+.box2 {
+
+}
+
+.box3 {
+    
+}
+
+.text_box_section_4 {
+
+}
+
+.section_5_right_image {
+
+}
+
+.footer {
+
+}
+
+.logo_footer {
+
+}
+
+.left_side_footer_list {
+
+}
+
+.right_side_footer_list {
+
+}
+
+.footer_right_side_signup {
+    b 
+}
