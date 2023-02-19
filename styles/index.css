@@ -1,5 +1,5 @@
 .body {
-    max-width: 1400px;
+    width: 1400px;
     font-family: 'Poppins', sans-serif;
 
 }
@@ -20,8 +20,11 @@
 .section_main {
     width: 1126px;
     height: 496px;
+    display: block;
     margin-left: 145px;
     padding-top: 30px;
+
+
 }
 
 .products {
@@ -32,7 +35,6 @@
 }
 
 .header_buttons {
-
     padding-left: 29px;
     padding-top: 35px;
 
@@ -41,23 +43,31 @@
 .btn-sign_in {
     Width: 102px;
     Height: 46px;
-    font-family: Poppins;
-    font-size: 16px;
+    font-family: 'Poppins';
+    font-style: normal;
     font-weight: 600;
+    font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0px;
-    text-align: left;
+    text-align: center;
+    color: #173A56;
+    border-color: #BCD0E5;
+    background-color: #FFFFFF
 }
 
 .btn-sign_up{
     Width: 102px;
     Height: 46px;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-weight: 600;
     line-height: 24px;
     letter-spacing: 0px;
-    text-align: left;
+    text-align: center;
+    background-color: #FF9900;
+    color: #FFFFFF;
+    border: #FFFFFF;
+
+    
 }
 
 
@@ -117,6 +127,7 @@
     top: 489px;
     background-color: #FF9900;
     color: #FFFFFF;
+    border: #FFFFFF;
 }
 
 .btn_watch_the_video {
@@ -134,6 +145,8 @@
     line-height: 24px;
     text-decoration-line: underline;
     color: #FF9900;
+    border: #FFFFFF;
+    background-color: #FFFFFF;
 
 }
 
@@ -155,6 +168,7 @@
 .header_tools {
     position: absolute;
     height: 108px;
+    width: 1400px;
     padding-top: 110px;
     font-family: 'Poppins';
     font-style: normal;
@@ -200,9 +214,9 @@
 .btn_tools_sign_up_now {
     height: 53px;
     width: 175px;
-    left: 1027px;
-    top: 400px;
+    margin-top: 400px;
     border-radius: 0px;
+    border: #FFFFFF;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
@@ -211,17 +225,28 @@
     color: #FFFFFF;
     background: #FF9900;
     border-radius: 4px;
-
+    /* Varför blir denna konstig?*/
 
 }
 
 .section_3_design_professionals {
-
+    display: flex;
+    width: 1110px;
+    height: 574px;
 }
 
 .left_side_section {
-
+    width: 486px;
+    height: 531px;
+    padding-left: 145px;
 }
+
+.right_side_section_dp {
+    width: 520px;
+    height: 574px;
+    
+}
+
 
 .topic_design_professionals {
 
